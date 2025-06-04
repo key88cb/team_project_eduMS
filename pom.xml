@@ -9,7 +9,7 @@
         <relativePath>../pom.xml</relativePath> </parent>
 
     <artifactId>EducationMS</artifactId>
-    <name>EducationMS</name>
+    <name>InformationManagement</name>
     <description>Education Management System Module</description>
     <dependencies>
         <dependency>
