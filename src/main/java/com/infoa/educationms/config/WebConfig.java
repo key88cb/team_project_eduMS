@@ -1,4 +1,5 @@
-/*package com.infoa.educationms.config;
+/*
+package com.infoa.educationms.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;
@@ -52,4 +53,6 @@ public class WebConfig implements WebMvcConfigurer {
                     }
                 });
     }
-}*/
+}
+
+*/
